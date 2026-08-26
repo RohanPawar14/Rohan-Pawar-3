@@ -1,0 +1,6 @@
+{
+  "name": "AutoPack AI",
+  "description": "Automated month-end and quarter-end financial reporting pack generator for FP&A with historical context caching and variance intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
